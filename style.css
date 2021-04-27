@@ -1,0 +1,81 @@
+*{
+    font-family: cursive;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    height: 300px;
+    width: 200px;
+    border: 3px solid black;
+}
+.container img{
+    margin-top: 30px;
+    height: 100px;
+    padding-left: 50px;
+}
+.container h2{
+    padding: 10px;
+}
+.add{
+    margin-top: 25px;
+    padding-left: 30px;
+}
+.network{
+    margin-left: 530px;
+    width: 800px;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 80px;
+    background-color: black;
+}
+.your{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.posts{
+    margin-left: 10px;
+}
+.posts p{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.profile1{
+    width: 600px;
+    height: 175px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+.profile2{
+    width: 600px;
+    height: 175px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+.profile3{
+    width: 600px;
+    height: 175px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+.subprof{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+button{
+    box-shadow: 5px 5px black;
+    font-size: large;
+    height: 50px;
+    width: 100px;
+    background-color: palegoldenrod;
+}
